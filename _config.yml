@@ -3,13 +3,13 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
+title: 还没想好
+subtitle: 回头找个算命的起个
 description: ''
 keywords:
-author: John Doe
-language: en
-timezone: ''
+author: Guozx
+language: zh-CN
+timezone: Asia/Shanghai
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
@@ -105,4 +105,4 @@ deploy:
   type: git
   repo: https://github.com/sanjiewude/blog.git
   # example, https://github.com/hexojs/hexojs.github.io
-  branch: gh-pages1
+  branch: gh-pages
